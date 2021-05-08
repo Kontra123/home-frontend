@@ -1,0 +1,15 @@
+.permitted-Actions-content-layout {
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    margin-top: 10px;
+    background-color: var(--color-8);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.resource-item-content-value-text {
+    font-size: var(--size-1);
+    font-weight: var(--weight-3);
+}

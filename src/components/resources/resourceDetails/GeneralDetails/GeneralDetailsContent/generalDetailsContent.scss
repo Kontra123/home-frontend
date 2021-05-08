@@ -1,0 +1,22 @@
+.resource-item-content-layout {
+    margin-top: 16px;
+
+    .resource-item-content-title-text {
+        font-size: var(--size-1);
+        font-weight: var(--weight-2);
+        color: var(--color-1);
+    }
+
+    .resource-item-content-value-layout {
+        background-color: var(--color-8);
+        margin-top: 10px;
+
+        .resource-item-content-value-text {
+            display: inline-block;
+            font-weight: var(--weight-3);
+            margin-left: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+    }
+}
