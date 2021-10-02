@@ -1,4 +1,4 @@
-Host: https://resources-ea1c4.web.app
+Host: https://home-frontend.herokuapp.com/
 
 Backend source:
 https://github.com/Kontra123/home-backend
