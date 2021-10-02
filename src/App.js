@@ -4,7 +4,7 @@ import { Route, Switch, BrowserRouter as Router, Redirect } from 'react-router-d
 import MainView from './views/mainView/MainView.view';
 /////
 const App = () => {
-
+    //
     return (
         <Router>
             <Switch>
