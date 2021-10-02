@@ -3,13 +3,22 @@
   "name": "resources",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.22.3"
+  },
   "dependencies": {
     "firebase-admin": "^9.0.0",
     "node-sass": "^4.14.1",
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-loader": "^2.1.6",
+    "postcss-normalize": "^8.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-safe-parser": "^5.0.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "sass-loader": "^7.1.0"
   },
   "scripts": {
     "predeploy": "npm run build",
